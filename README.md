@@ -57,6 +57,10 @@ Through this task, we gain practical experience in natural language processing, 
 
 This internship project has enriched our knowledge of NLP, and the techniques learned here are applicable to various domains such as social media monitoring, product review analysis, and customer feedback systems.
 
----
+
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6058250e-0e17-409c-8b7e-6a61bcc68282)
+![Image](https://github.com/user-attachments/assets/80f7de97-34af-4627-9370-f61c59296aec)
+![Image](https://github.com/user-attachments/assets/b02265bd-df23-4f42-ad79-6bced4bf1958)
 
