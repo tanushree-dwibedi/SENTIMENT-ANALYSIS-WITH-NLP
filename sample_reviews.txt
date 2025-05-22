@@ -1,0 +1,19 @@
+Review,Sentiment
+"I love this product!",Positive
+"Absolutely terrible experience",Negative
+"Great quality and fast shipping",Positive
+"Not worth the money",Negative
+"Amazing service and friendly staff",Positive
+"Will never buy this again",Negative
+"Exceeded my expectations!",Positive
+"Completely disappointed",Negative
+"Fantastic build quality",Positive
+"Horrible packaging and late delivery",Negative
+"Five stars, very satisfied",Positive
+"Didn't like it at all",Negative
+"Quick and reliable",Positive
+"Terrible product, waste of money",Negative
+"Highly recommend it to everyone",Positive
+"Stopped working in a week",Negative
+"Customer support was great",Positive
+"Very poor customer service",Negative
